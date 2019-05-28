@@ -17,3 +17,6 @@ If you have problems installing or using py3DN, don't by shy - send me an email:
 
 Paulo Aguiar
 pauloaguiar@ineb.up.pt
+
+
+https://sourceforge.net/projects/py3dn/
